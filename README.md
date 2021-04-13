@@ -23,15 +23,27 @@ Here is an example of the program running:
 Name of the file :
 colour_info
 
+Name of the file :
+Colours
+
 No of the colour you want : 5
-#### Creating File ####
+
+.#### Creating File ####
+
 :)      File Created Successfully
-Colour Name : 1 :  Red #5432f
-Colour Name : 2 :  Yellow #331ba3
-Colour Name : 3 :  pink #FAF543
-Colour Name : 4 :  ORANGE #56DA4
-Colour Name : 5 :  PURPLE #4503A
-#### Writing File ####
+
+Colour Name : 1 :  RED #345AF2
+
+Colour Name : 2 :  YELLOW #21F51
+
+Colour Name : 3 :  PURPLE #21765
+
+Colour Name : 4 :  PINK #290FC
+
+Colour Name : 5 :  GREEN #223AC
+
+.#### Writing File ####
+
 :)      Successfully writen the file
 
 ## C++ Guide
