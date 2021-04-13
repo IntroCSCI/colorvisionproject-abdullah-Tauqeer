@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple concole application, it asks the user to create a file that in which the information of the colours will the be saved, first it promopts the user to provide any name for the name in which he wants to save colour information. Then a loop will start and it takes information for all those colours one by one and they finally it will write that data to a .txt file
+This is a simple concole application, it asks the user to create a file that in which the information of the colours will the be saved, first it promopts the user to provide any name for the name in which he wants to save colour information. Then a loop will start and it takes information for all those colours one by one and they finally it will write that data to a .css file
 
 
 ## Developer
