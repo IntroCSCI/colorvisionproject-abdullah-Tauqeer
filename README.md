@@ -1,4 +1,4 @@
-# C++ Palette Generator
+# C++ Palette Analyzer
 
 ## Description
 
